@@ -1,1 +1,3 @@
 another file in future branch 
+
+this files was modified locally 
