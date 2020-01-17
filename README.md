@@ -1,4 +1,4 @@
 # first-github-reporsty
 my first github repoistory
 
-just edited readme.md file. this file was modifed localy 
+this line was modfied manually during conflicts resuluation 
