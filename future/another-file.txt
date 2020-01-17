@@ -1,3 +1,5 @@
-another file in future branch 
+simply this line was replace in future-2 branch 
 
 this files was modified locally 
+
+this line was added in future-2 branch 
